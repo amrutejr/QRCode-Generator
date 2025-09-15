@@ -16,3 +16,4 @@ You can install the dependency with:
 pip install qrcode[pil]
 # QRCode-Generator
 # QRCode-Generator
+# QRCode-Generator
