@@ -14,3 +14,5 @@ A simple Python project that generates QR codes from links and saves them as ima
 You can install the dependency with:
 ```bash
 pip install qrcode[pil]
+# QRCode-Generator
+# QRCode-Generator
